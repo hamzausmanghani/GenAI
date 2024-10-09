@@ -1,0 +1,2 @@
+protobuf==5.28.2
+streamlit==1.39.0
